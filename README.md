@@ -6,7 +6,7 @@
 * Sharing Knowledge 💡
 * Collaboration 🔄
 
-![](https://avatars3.githubusercontent.com/u/31112269?v=4&s=100)
+![](/assets/javascript/javascript-original.svg&s=100)
 
 
 #### Languages and Tools
