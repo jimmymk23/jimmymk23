@@ -1,12 +1,14 @@
 ### Hey! My name is James and I'm a Frontend Web Developer, Student, and Chocolate Connoisseur 🍫
 
-#### 🔭 I’m currently working on:
-* :chart_with_upwards_trend: Data Visualization
-* 👍 Interactivity
-* 💡 Sharing Knowledge
-* 🔄 Collaboration
+#### I’m currently working on:
+* Data Visualization :chart_with_upwards_trend:
+* Interactivity 👍
+* Sharing Knowledge 💡
+* Collaboration 🔄
 
-
+#### Languages and Tools
+![JavaScript](/assets/javascript/javascript-original.svg)
+![NodeJS](/assets/nodejs/nodejs-original-wordmark.svg)
 
 
 <!--
