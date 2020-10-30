@@ -7,7 +7,7 @@
 * Collaboration 🔄
 
 #### Languages and Tools
-![JavaScript](/assets/javascript/javascript-original.svg)
+![JavaScript](/assets/javascript/javascript-original.svg | width=100)
 ![NodeJS](/assets/nodejs/nodejs-original-wordmark.svg)
 
 
