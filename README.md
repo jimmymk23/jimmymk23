@@ -7,6 +7,8 @@
 * Collaboration 🔄
 
 #### Languages and Tools
+<img src="url" alt="alt text" width="whatever" height="whatever">
+<img src="/assets/javascript/javascript-original.svg" alt="JavaScript" width="100">
 ![JavaScript](/assets/javascript/javascript-original.svg | width=100)
 ![NodeJS](/assets/nodejs/nodejs-original-wordmark.svg)
 
