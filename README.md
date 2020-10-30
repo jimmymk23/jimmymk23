@@ -2,9 +2,9 @@
 
 #### 🔭 I’m currently working on:
 :chart_with_upwards_trend: Data Visualization
-👍 Interactivity
-💡 Sharing Knowledge
-🔄 Collaboration
+* 👍 Interactivity
+* 💡 Sharing Knowledge
+* 🔄 Collaboration
 
 
 
