@@ -7,7 +7,7 @@
 * Collaboration 🔄
 
 #### Languages and Tools
-![](/assets/javascript/javascript-original.svg&s=200)
+<!-- ![](/assets/javascript/javascript-original.svg&s=200) -->
 <img src="/assets/javascript/javascript-original.svg" alt="JavaScript" width="50">
 <img src="/assets/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50">
 <img src="assets/npm/npm-original-wordmark.svg" alt="NodeJS" width="50">
