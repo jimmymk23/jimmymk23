@@ -1,7 +1,7 @@
 ### Hey! My name is James and I'm a Frontend Web Developer, Student, and Chocolate Connoisseur 🍫
 
 #### 🔭 I’m currently working on:
-:chart_with_upwards_trend: Data Visualization
+* :chart_with_upwards_trend: Data Visualization
 * 👍 Interactivity
 * 💡 Sharing Knowledge
 * 🔄 Collaboration
