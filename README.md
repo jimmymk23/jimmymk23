@@ -9,8 +9,8 @@
 #### Languages and Tools
 ![]()
 <img src="/assets/javascript/javascript-original.svg" alt="JavaScript" width="40">
-<img src="/assets/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60">
-<img src="assets/npm/npm-original-wordmark.svg" alt="NPM" width="60">
+<img src="/assets/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="45">
+<img src="assets/npm/npm-original-wordmark.svg" alt="NPM" width="45">
 <img src="assets/html5/html5-original.svg" alt="HTML5" width="40">
 <img src="assets/css3/css3-original.svg" alt="CSS3" width="40">
 <img src="assets/sass/sass-original.svg" alt="SASS" width="40">
@@ -24,7 +24,7 @@
 <img src="assets/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="40">
 <img src="assets/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="40">
 <img src="assets/linux/linux-plain.svg" alt="Linux" width="40">
-<img src="assets/php/php-plain.svg" alt="PHP" width="50">
+<img src="assets/php/php-plain.svg" alt="PHP" width="45">
 <img src="assets/python/python-original.svg" alt="Python" width="40">
 <!-- <img src="PATH" alt="ALT" width="50"> -->
 
