@@ -6,6 +6,9 @@
 * Sharing Knowledge 💡
 * Collaboration 🔄
 
+![](https://avatars3.githubusercontent.com/u/31112269?v=4&s=200)
+
+
 #### Languages and Tools
 ![]()
 <img src="/assets/javascript/javascript-original.svg" alt="JavaScript" width="40">
@@ -27,6 +30,10 @@
 <img src="assets/php/php-plain.svg" alt="PHP" width="45">
 <img src="assets/python/python-original.svg" alt="Python" width="40">
 <!-- <img src="PATH" alt="ALT" width="50"> -->
+
+
+####How to reach me
+
 
 <!--
 **jimmymk23/jimmymk23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

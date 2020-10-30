@@ -1,0 +1,19 @@
+{
+  "name": "jimmymk23",
+  "version": "1.0.0",
+  "description": "My GitHub Profile",
+  "main": "",
+  "scripts": {
+    "deploy": "git add . && git commit -m \"Updated README.md\" && git push origin main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmymk23/jimmymk23.git"
+  },
+  "author": "James Keseling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmymk23/jimmymk23/issues"
+  },
+  "homepage": "https://github.com/jimmymk23/jimmymk23#readme"
+}
