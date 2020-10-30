@@ -7,11 +7,25 @@
 * Collaboration 🔄
 
 #### Languages and Tools
-<img src="url" alt="alt text" width="whatever" height="whatever">
-<img src="/assets/javascript/javascript-original.svg" alt="JavaScript" width="100">
-![JavaScript](/assets/javascript/javascript-original.svg | width=100)
-![NodeJS](/assets/nodejs/nodejs-original-wordmark.svg)
-
+<img src="/assets/javascript/javascript-original.svg" alt="JavaScript" width="50">
+<img src="/assets/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50">
+<img src="assets/npm/npm-original-wordmark.svg" alt="NodeJS" width="50">
+<img src="assets/html5/html5-original.svg" alt="HTML5" width="50">
+<img src="assets/css3/css3-original.svg" alt="CSS3" width="50">
+<img src="assets/sass/sass-original.svg" alt="SASS" width="50">
+<img src="assets/react/react-original.svg" alt="ReactJS" width="50">
+<img src="assets/express/express-original.svg" alt="ExpressJS" width="50">
+<img src="assets/wordpress/wordpress-plain.svg" alt="WordPress" width="50">
+<img src="assets/visualstudio/visualstudio-plain.svg" alt="VSCode" width="50">
+<img src="assets/git/git-original.svg" alt="Git" width="50">
+<img src="assets/github/github-original.svg" alt="GitHub" width="50">
+<img src="assets/heroku/heroku-plain.svg" alt="Heroku" width="50">
+<img src="assets/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="50">
+<img src="assets/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="50">
+<img src="assets/linux/linux-plain.svg" alt="Linux" width="50">
+<img src="assets/php/php-plain.svg" alt="PHP" width="50">
+<img src="assets/python/python-original.svg" alt="Python" width="50">
+<!-- <img src="PATH" alt="ALT" width="50"> -->
 
 <!--
 **jimmymk23/jimmymk23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
