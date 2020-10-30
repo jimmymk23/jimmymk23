@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hey! My name is James and I'm a Frontend Web Developer, Student, and Chocolate Connoisseur 🍫
 
-# My name is James and I'm a frontend web developer.
+- 🔭 I’m currently working on
+
+
+
 <!--
 **jimmymk23/jimmymk23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
