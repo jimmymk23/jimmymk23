@@ -6,9 +6,6 @@
 * Sharing Knowledge 💡
 * Collaboration 🔄
 
-![](/assets/javascript/javascript-original.svg&s=100)
-
-
 #### Languages and Tools
 ![]()
 <img src="/assets/javascript/javascript-original.svg" alt="JavaScript" width="40">
