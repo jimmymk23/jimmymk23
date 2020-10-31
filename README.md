@@ -30,6 +30,8 @@
 
 
 #### How to reach me
+* Email
+* Instagram
 
 
 <!--
